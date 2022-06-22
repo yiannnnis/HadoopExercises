@@ -5,3 +5,5 @@ Created By [Papavasilopoulos Ioannis](https://github.com/yiannnnis) and [Papachr
 
 
 The data can be found in the personality_analysis.csv file in the main directory and the Map-Reduce Functions in each of the corresponding directories.
+
+Also inluded is a Java program to convert the dataset to Hadoop friendly input (App.java main directory)
